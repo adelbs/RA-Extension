@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="buildJar" name="Creates Jar">
+	
+	<property name="projectName" value="RAExtension" />
+	
+    <target name="buildJar">
+    
+    	<jar destfile="build/${projectName}.jar">
+            <fileset dir="bin"/>
+        </jar>
+    	
+    </target>
+	
+</project>

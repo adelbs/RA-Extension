@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/LIB/Borland/StarTeam/starteam140-resources.jar"/>
+	<classpathentry kind="lib" path="/LIB/Borland/StarTeam/starteam140.jar" sourcepath="C:/Users/jacfe02/Desktop/starteam140.src.zip"/>
+	<classpathentry kind="lib" path="/LIB/Borland/StarTeam/cmdClient.jar"/>
+	<classpathentry kind="lib" path="/LIB/Borland/StarTeam/cmdServer.jar"/>
+	<classpathentry kind="lib" path="/LIB/Borland/StarTeam/jsafe.jar"/>
+	<classpathentry kind="lib" path="/LIB/Borland/StarTeam/ss.jar"/>
+	<classpathentry kind="lib" path="/LIB/Borland/StarTeam/starteam110.bridgeTo.starteam140.jar"/>
+	<classpathentry kind="lib" path="/LIB/Borland/StarTeam/stcmdEx.jar"/>
+	<classpathentry kind="lib" path="/LIB/Borland/StarTeam/swingall.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

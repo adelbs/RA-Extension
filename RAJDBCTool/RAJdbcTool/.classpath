@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Java/eclipse/dropins/com.nolio.actions_1.0.1.201507011447.jar_sdk/nolio-shared-5.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Java/eclipse/dropins/com.nolio.actions_1.0.1.201507011447.jar_sdk/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/projects/git/RAJDBCTool/RAJdbcTool/ifxjdbc.jar"/>
+	<classpathentry kind="lib" path="/LIB/Apache/commons-dbutils-1.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

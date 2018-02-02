@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="create_run_jar" name="Create Runnable Jar for Project TesteClient">
+    <target name="create_run_jar">
+        <jar destfile="build/RAJdbcTool.jar">
+
+        	<manifest>
+                <attribute name="Created-By" value="CA"/>
+                <attribute name="Built-By" value="CA"/>
+            	<attribute name="Application-Name" value="Release Automation"/>
+            	<attribute name="Nolio-ASAP-Version" value="5.5.2-b191"/>
+            	<attribute name="Nolio-Minimal-Version" value="5.5.2"/>
+            	<attribute name="Pack-Category" value="JDBC"/>
+            	<attribute name="Pack-Description" value="This action executes a script at any JDBC connection"/>
+            	<attribute name="Pack-Name" value="Execute JDBC Script Action"/>
+            	<attribute name="Pack-Supplier" value="Nolio"/>
+            	<attribute name="Pack-Version" value="1.22"/>
+            	<attribute name="Permissions" value="all-permissions"/>
+            </manifest>
+
+        	<fileset dir="bin"/>
+        	
+        </jar>
+    </target>
+</project>
